@@ -63,6 +63,13 @@ repo-url = "https://github.com/HarrisonGrodin/SpecialSets.jl"
 uuid = "c6b63f46-9023-11e8-3b28-1f7d8c94880d"
 version = "0.1.0"
 
+[[SymbolicMath]]
+git-tree-sha1 = "6ee011bba3e85c97a3fa9f894a7df092c479c572"
+repo-rev = "master"
+repo-url = "https://github.com/timkittel/SymbolicMath.jl"
+uuid = "7f795c9a-a060-11e8-3c40-91ca51eed19f"
+version = "0.1.0"
+
 [[Test]]
 deps = ["Distributed", "InteractiveUtils", "Logging", "Random"]
 uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
